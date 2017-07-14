@@ -1,0 +1,21 @@
+{
+  "thumb": {
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_6_20/media/2017-07-14-041116/Screen-Shot-2017-07-11-at-5.28.12-PM.png",
+    "path": null,
+    "file_type": "image/png",
+    "name": "Screen Shot 2017-07-11 at 5.28.12 PM.png",
+    "tags": null,
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_6_20/media/2017-07-14-041116/large_Screen_Shot_2017-07-11_at_5.28.12_PM.png",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_6_20/media/2017-07-14-041116/thumb_Screen_Shot_2017-07-11_at_5.28.12_PM.png",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_6_20/media/2017-07-14-041116/medium_Screen_Shot_2017-07-11_at_5.28.12_PM.png",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_6_20/media/2017-07-14-041116/small_Screen_Shot_2017-07-11_at_5.28.12_PM.png",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_6_20/media/2017-07-14-041116/xsmall_Screen_Shot_2017-07-11_at_5.28.12_PM.png",
+    "width": 2560,
+    "height": 1600,
+    "file_size": 476471,
+    "alt": "Screen Shot 2017-07-11 at 5.28.12 PM.png",
+    "caption": "Screen Shot 2017-07-11 at 5.28.12 PM.png",
+    "description": "Screen Shot 2017-07-11 at 5.28.12 PM.png"
+  },
+  "name": "testing"
+}
