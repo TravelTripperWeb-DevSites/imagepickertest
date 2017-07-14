@@ -5,5 +5,9 @@
   "thumb": {
     "required": true,
     "type": "image"
+  },
+  "text": {
+    "required": true,
+    "type": "richtext"
   }
 }
